@@ -6,3 +6,5 @@ Homework code for AMATH 563
  - HW2: populations.m, chem_oscillator.m
  
  - HW3: yalefaces.m, yalefaces_gender.m, yalefaces_unsupervised.m
+ 
+ - HW4: kuramoto_sivashinky.m, reaction_diffusion.m, lorentzRho.m, lorentzLobe.m
